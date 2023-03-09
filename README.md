@@ -31,3 +31,8 @@
 * you will receive multiple `pull` requests from your collaborator with suggestions on how to adopt best practices in your repo
 * use the pull request functionality in GitHub to **accept**, **comment** or **reject** each one of these pull requests.
 * note that you will not receive full marks if you leave pull requests unattended.
+ 
+This is Inara Tareque's Lab 1
+
+# Requirement: 
+Run a multiple multinomial logistic regression. The outcome can be truly unordered or simply ordinal. Tell me how you think your independent variables will be related to your dependent variable. Interpret your results. Compare coefficients on your X variable of interest (not all of them) across different cuts of the multinomial outcomes, as we did in class (i.e., the Z test). For extra credit, generate some predicted probabilities. Tell me what you learned about your hypothesized relationship(s) from this exercise.
